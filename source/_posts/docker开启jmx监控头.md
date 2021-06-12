@@ -3,8 +3,6 @@ title: Docker中的java程序开启JMX监控
 tags: jmx
 categories: docker
 ---
-# Docker中的java程序开启JMX监控
-
 ```
 docker run -d \
 --name spring-app \
